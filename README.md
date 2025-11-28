@@ -1,4 +1,4 @@
-# Human Islet Transcriptome (HIT) — Annotation & Analysis
+# Human Islet Transcriptome (HIT) Analysis
 
 ## Project overview
 
